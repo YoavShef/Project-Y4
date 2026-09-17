@@ -12,7 +12,7 @@ namespace Project_Y4
         {
             int time;
             int hours, minutes;
-
+            //hello
             Console.WriteLine("ENTER A NUMBER:");
             time = int.Parse(Console.ReadLine());
 
