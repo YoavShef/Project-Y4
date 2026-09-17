@@ -11,8 +11,8 @@ namespace Project_Y4
         static void Main(string[] args)
         {
             int time;
-            int hours, minutes;
-            //hello
+            int hours, minutes;//Yo
+
             Console.WriteLine("ENTER A NUMBER:");
             time = int.Parse(Console.ReadLine());
 
